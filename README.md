@@ -1,12 +1,12 @@
 <h1 align='center'> Movie Recommender System </h1>
 <h2 align='center'> https://movie-recommender-system-21.streamlit.app/</h2>
 <br>
-<p>In this project, I, with my teammates have built a content based movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences. </p>
+<p>In this project, I have built a content based movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences. </p>
 <br>
 <p align='center'> <img height='400' src = 'https://github.com/tejred213/Movie-Recommender-System/assets/86062873/c577db73-7d4c-4314-ae09-406ab827f768'></p>
 <br>
 <h2> Live Demo </h2>
-<p align='center'><img height='400' src = 'https://github.com/tejred213/Movie-Recommender-System/assets/86062873/9598667c-12fc-4942-a2da-587db42033c1'></p>
+<p align='center'><img height='400' src = 'https://github.com/tejred213/Movie-Recommender/assets/86062873/ff536974-a8be-4b49-8e17-2740fc7eaf54'></p>
 
 <br>
 <h2>Basic Functioning</h2>
@@ -35,4 +35,4 @@ It is a numerical value ranges between zero to one which helps to determine how 
 <h2>Sources of the datasets : </h2>
 <p>I have used the TMDB 5000 movies dataset to build the model</p>
 <p>You can collect dataset from https://www.kaggle.com/tmdb/tmdb-movie-metadata</p>
- 
+
