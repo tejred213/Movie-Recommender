@@ -1,5 +1,5 @@
 <h1 align='center'> Movie Recommender System </h1>
-<h2 align='center'> https://movie-recommender-system-21.streamlit.app/</h2>
+<h2 align='center'> https://the-movie-recommender.streamlit.app/</h2>
 <br>
 <p>In this project, I have built a content based movie recommender system. The algorithm recommends products that are similar to the ones that a user has liked in the past. This similarity (generally cosine similarity) is computed from the data we have about the items as well as the user’s past preferences. </p>
 <br>
